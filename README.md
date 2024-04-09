@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Olá, Eu sou o Paulo Vitor mas aqui me chamam de @PVgames11  <br>Estou interessado em me tornar um analista de dados/analista de bi<br>🌱 Atualmente estudo python,sql e power bi<br>📫 Como chegar até mim: paulovitorstark@gmail.com<br> Estou procurando colaborar com analises de dados e analises de bi <br>⚽🎮 Apaixonado por games e futebol<br> 💻 Apaixonado pela área de dados .
+👋 Olá, Eu sou o Paulo Vitor mas aqui me chamam de @PVgames11  <br>🎲Estou interessado em me tornar um analista de dados/analista de bi<br>🌱📚 Atualmente estudo python,sql e power bi<br>📫 Como chegar até mim: paulovitorstark@gmail.com<br> Estou procurando colaborar com analises de dados e analises de bi <br>⚽🎮 Apaixonado por games e futebol<br> 💻 Apaixonado pela área de dados .
 
 
 ## 🌐 Socials:
