@@ -1,17 +1,52 @@
 # 💫 About Me:
-👋 Olá! Eu sou o **Paulo Vitor Silva Quintanilha**, mas por aqui me chamam de **@PVgames11**  
-🤖 Sou **graduando em Ciência da Computação** e apaixonado por **Robótica e Internet das Coisas (IoT)**.  
-🔧 Tenho experiência em **desenvolvimento de sistemas embarcados**, integração entre **hardware e software**, e criação de soluções inteligentes que conectam o mundo físico ao digital.  
-📡 Atualmente estou me aprofundando em **MQTT**, **Node.js** e **ESP32**, com foco em projetos que envolvem **automação, sensores e controle remoto de dispositivos**.  
-📊 Possuo também uma base sólida na área de **dados**, com experiência em **Python, SQL e Power BI**.  
-💡 Busco colaborar em projetos de **IoT, automação, robótica** e tecnologias que promovam inovação e impacto real.  
-📫 Contato: **paulovitorstark@gmail.com**  
-⚽🎮 Apaixonado por **futebol e games**  
+Paulo Vitor Silva Quintanilha
+Engenheiro de Sistemas Embarcados | Especialista em IoT | Desenvolvedor Firmware C/C++
+Bacharel em Ciência da Computação e pós-graduando em Internet of Things (IoT) pela UTFPR. Especialista no desenvolvimento de soluções conectadas, com foco na integração entre hardware de baixo nível, firmware robusto e infraestrutura de dados.
 
----
+Competências Técnicas
+Hardware & Firmware
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/paulo-vitor-quintanilha)
+Microcontroladores: Domínio técnico em ESP32 e ESP8266 utilizando linguagem C/C++.
+
+Sistemas de Controle: Desenvolvimento de lógica de acionamento, calibração de sensores com compensação térmica e sistemas de telemetria.
+
+Prototipagem: Experiência em montagem de circuitos eletrônicos, integração de sensores (Ultrassônico, MPU-6050) e atuadores (Módulos Relé).
+
+Conectividade & Protocolos
+
+M2M & Cloud: Implementação de comunicação via protocolos MQTT e HTTP.
+
+Integração de Dados: Desenvolvimento de scripts em Python para consumo de dados via broker MQTT e persistência estruturada em bancos de dados MySQL.
+
+Dashboards IoT: Desenvolvimento de interfaces para monitoramento remoto utilizando React, Node.js e Firebase.
+
+Mensageria: Implementação de APIs para alertas automatizados e notificações em tempo real via WhatsApp.
+
+Análise de Dados & Design
+
+Ciência de Dados: Base sólida em Python (Pandas/Numpy), SQL e Power BI para tratamento de telemetria gerada por dispositivos IoT.
+
+Manufatura Digital: Conhecimentos em modelagem 3D (Fusion 360) para design de invólucros técnicos, operação de impressoras 3D e máquinas de corte a laser.
+
+Projetos em Destaque
+Automatização Hídrica Industrial (Projeto de Extensão)
+
+Escopo: Arquitetura de hardware e desenvolvimento de firmware de controle utilizando ESP32 e integração HTTP/MySQL.
+
+Resultado: Projeto concluído com nota máxima (10), solucionando problemas de transbordamento e escassez em ambiente real.
+
+Sistemas de Telemetria via MQTT
+
+Escopo: Desenvolvimento de arquitetura Pub/Sub integrando dispositivos embarcados a aplicações Python.
+
+Diferencial: Implementação de fluxos de dados ponta a ponta, desde a captura no sensor até o armazenamento em banco de dados relacional para posterior análise.
+
+Contato
+Email: paulovitorstark@gmail.com
+
+LinkedIn: linkedin.com/in/paulo-vitor-quintanilha
+
+Portfólio: github.com/PVgames11
 
 ---
 
