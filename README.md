@@ -1,52 +1,45 @@
 # 💫 About Me:
-Paulo Vitor Silva Quintanilha
-Engenheiro de Sistemas Embarcados | Especialista em IoT | Desenvolvedor Firmware C/C++
-Bacharel em Ciência da Computação e pós-graduando em Internet of Things (IoT) pela UTFPR. Especialista no desenvolvimento de soluções conectadas, com foco na integração entre hardware de baixo nível, firmware robusto e infraestrutura de dados.
+# Paulo Vitor Silva Quintanilha
+### Engenheiro de Sistemas Embarcados | Especialista em IoT | Desenvolvedor Firmware C/C++
 
-Competências Técnicas
-Hardware & Firmware
+Bacharel em **Ciência da Computação** e pós-graduando em **Internet of Things (IoT)** pela **UTFPR**. Especialista no desenvolvimento de soluções conectadas, com foco na integração entre hardware de baixo nível, firmware robusto e infraestrutura de dados.
 
-Microcontroladores: Domínio técnico em ESP32 e ESP8266 utilizando linguagem C/C++.
+---
 
-Sistemas de Controle: Desenvolvimento de lógica de acionamento, calibração de sensores com compensação térmica e sistemas de telemetria.
+## Competências Técnicas
 
-Prototipagem: Experiência em montagem de circuitos eletrônicos, integração de sensores (Ultrassônico, MPU-6050) e atuadores (Módulos Relé).
+### Hardware & Firmware
+* **Microcontroladores:** Domínio técnico em **ESP32** e **ESP8266** utilizando linguagem **C/C++**.
+* **Sistemas de Controle:** Desenvolvimento de lógica de acionamento, calibração de sensores e telemetria.
+* **Prototipagem:** Experiência em montagem de circuitos, integração de sensores (HC-SR04, MPU-6050) e atuadores (Relés).
 
-Conectividade & Protocolos
+### Conectividade & Protocolos
+* **M2M & Cloud:** Implementação de comunicação via protocolos **MQTT** e **HTTP**.
+* **Integração de Dados:** Scripts em **Python** para consumo de dados via broker MQTT e persistência em **MySQL**.
+* **Dashboards IoT:** Desenvolvimento de interfaces remotas utilizando **React**, **Node.js** e **Firebase**.
 
-M2M & Cloud: Implementação de comunicação via protocolos MQTT e HTTP.
+### Análise de Dados & Design
+* **Ciência de Dados:** Base sólida em **Python (Pandas/Numpy)**, **SQL** e **Power BI**.
+* **Manufatura Digital:** Modelagem 3D (**Fusion 360**) para invólucros técnicos e operação de máquinas CNC/Laser.
 
-Integração de Dados: Desenvolvimento de scripts em Python para consumo de dados via broker MQTT e persistência estruturada em bancos de dados MySQL.
+---
 
-Dashboards IoT: Desenvolvimento de interfaces para monitoramento remoto utilizando React, Node.js e Firebase.
+## Projetos em Destaque
 
-Mensageria: Implementação de APIs para alertas automatizados e notificações em tempo real via WhatsApp.
+### Automatização Hídrica Industrial (Projeto de Extensão)
+* **Escopo:** Arquitetura de hardware e firmware de controle utilizando ESP32 e integração HTTP/MySQL.
+* **Resultado:** Projeto concluído com **nota máxima (10)**, solucionando problemas reais de abastecimento.
 
-Análise de Dados & Design
+### Sistemas de Telemetria via MQTT
+* **Escopo:** Arquitetura Pub/Sub integrando dispositivos embarcados a aplicações Python.
+* **Diferencial:** Fluxos de dados ponta a ponta, da captura no sensor ao armazenamento estruturado.
 
-Ciência de Dados: Base sólida em Python (Pandas/Numpy), SQL e Power BI para tratamento de telemetria gerada por dispositivos IoT.
+---
 
-Manufatura Digital: Conhecimentos em modelagem 3D (Fusion 360) para design de invólucros técnicos, operação de impressoras 3D e máquinas de corte a laser.
-
-Projetos em Destaque
-Automatização Hídrica Industrial (Projeto de Extensão)
-
-Escopo: Arquitetura de hardware e desenvolvimento de firmware de controle utilizando ESP32 e integração HTTP/MySQL.
-
-Resultado: Projeto concluído com nota máxima (10), solucionando problemas de transbordamento e escassez em ambiente real.
-
-Sistemas de Telemetria via MQTT
-
-Escopo: Desenvolvimento de arquitetura Pub/Sub integrando dispositivos embarcados a aplicações Python.
-
-Diferencial: Implementação de fluxos de dados ponta a ponta, desde a captura no sensor até o armazenamento em banco de dados relacional para posterior análise.
-
-Contato
-Email: paulovitorstark@gmail.com
-
-LinkedIn: linkedin.com/in/paulo-vitor-quintanilha
-
-Portfólio: github.com/PVgames11
+## Contato
+* **Email:** paulovitorstark@gmail.com
+* **LinkedIn:** [paulo-vitor-quintanilha](https://linkedin.com/in/paulo-vitor-quintanilha)
+* **Portfólio:** [github.com/PVgames11](https://github.com/PVgames11)
 
 ---
 
