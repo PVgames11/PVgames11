@@ -1,47 +1,135 @@
-# 💫 About Me:
-# Paulo Vitor Silva Quintanilha
-### Engenheiro de Sistemas Embarcados | Especialista em IoT | Desenvolvedor Firmware C/C++
+# 👋 Olá, eu sou Paulo Vitor Silva Quintanilha
 
-Bacharel em **Ciência da Computação** e pós-graduando em **Internet of Things (IoT)** pela **UTFPR**. Especialista no desenvolvimento de soluções conectadas, com foco na integração entre hardware de baixo nível, firmware robusto e infraestrutura de dados.
+### Bacharel em Ciência da Computação | Pós-graduando em Internet das Coisas (IoT) | Desenvolvedor de Sistemas Embarcados
 
----
+Sou bacharel em Ciência da Computação e atualmente curso pós-graduação em Internet das Coisas (IoT) pela UTFPR.
 
-## Competências Técnicas
+Tenho interesse no desenvolvimento de sistemas embarcados, firmware e automação, buscando criar soluções que integrem hardware e software para resolver problemas do mundo real.
 
-### Hardware & Firmware
-* **Microcontroladores:** Domínio técnico em **ESP32** e **ESP8266** utilizando linguagem **C/C++**.
-* **Sistemas de Controle:** Desenvolvimento de lógica de acionamento, calibração de sensores e telemetria.
-* **Prototipagem:** Experiência em montagem de circuitos, integração de sensores (HC-SR04, MPU-6050) e atuadores (Relés).
-
-### Conectividade & Protocolos
-* **M2M & Cloud:** Implementação de comunicação via protocolos **MQTT** e **HTTP**.
-* **Integração de Dados:** Scripts em **Python** para consumo de dados via broker MQTT e persistência em **MySQL**.
-* **Dashboards IoT:** Desenvolvimento de interfaces remotas utilizando **React**, **Node.js** e **Firebase**.
-
-### Análise de Dados & Design
-* **Ciência de Dados:** Base sólida em **Python (Pandas/Numpy)**, **SQL** e **Power BI**.
-* **Manufatura Digital:** Modelagem 3D (**Fusion 360**) para invólucros técnicos e operação de máquinas CNC/Laser.
+Atualmente estou aprofundando meus conhecimentos em STM32, C/C++, Lua, Git e FreeRTOS, enquanto desenvolvo projetos práticos para consolidar minha experiência em sistemas embarcados e IoT.
 
 ---
 
-## Projetos em Destaque
+# 🚀 Áreas de Interesse
 
-### Automatização Hídrica Industrial (Projeto de Extensão)
-* **Escopo:** Arquitetura de hardware e firmware de controle utilizando ESP32 e integração HTTP/MySQL.
-* **Resultado:** Projeto concluído com **nota máxima (10)**, solucionando problemas reais de abastecimento.
+- Sistemas Embarcados
+- Internet das Coisas (IoT)
+- Firmware em C/C++
+- Automação Industrial
+- Robótica
+- Protocolos de Comunicação
+- Desenvolvimento de Software
 
-### Sistemas de Telemetria via MQTT
-* **Escopo:** Arquitetura Pub/Sub integrando dispositivos embarcados a aplicações Python.
-* **Diferencial:** Fluxos de dados ponta a ponta, da captura no sensor ao armazenamento estruturado.
+---
+
+# 🔧 Competências Técnicas
+
+## Sistemas Embarcados
+
+- ESP32
+- ESP8266
+- Arduino
+- Desenvolvimento em C/C++
+- Integração de sensores e atuadores
+- Prototipagem eletrônica
+
+## Comunicação
+
+- MQTT
+- HTTP
+- Wi-Fi
+
+## Programação
+
+- C
+- C++
+- Python
+- Lua
+- SQL
+
+## Ferramentas
+
+- Git
+- GitHub
+- VS Code
+- Arduino IDE
+- MySQL
+- Firebase
+
+## Conhecimentos
+
+- Telemetria
+- IoT
+- Integração Hardware/Software
+- Bancos de Dados
+- Power BI
+- Fusion 360
 
 ---
 
-## Contato
-* **Email:** paulovitorstark@gmail.com
-* **LinkedIn:** [paulo-vitor-quintanilha](https://linkedin.com/in/paulo-vitor-quintanilha)
-* **Portfólio:** [github.com/PVgames11](https://github.com/PVgames11)
+# 📌 Projetos em Destaque
+
+## 🚰 Sistema Inteligente de Monitoramento Hídrico
+
+Projeto desenvolvido utilizando ESP32 para monitoramento do nível de reservatórios e controle automático de bomba d'água.
+
+**Tecnologias**
+
+- ESP32
+- C++
+- HTTP
+- MySQL
 
 ---
+
+## ⛽ GASTRACK
+
+Sistema IoT para monitoramento remoto de botijões de gás utilizando ESP32, sensores e dashboard web.
+
+**Tecnologias**
+
+- ESP32
+- Firebase
+- MQTT
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📡 Sistema de Telemetria MQTT
+
+Implementação de arquitetura Publish/Subscribe para comunicação entre dispositivos embarcados e aplicações Python.
+
+**Tecnologias**
+
+- MQTT
+- Python
+- MySQL
+- ESP32
+
+---
+
+# 📚 Atualmente Estudando
+
+- STM32
+- FreeRTOS
+- Lua
+- Git
+- Arquitetura de Firmware
+- Protocolos para Sistemas Embarcados
+
+---
+
+# 📫 Contato
+
+📧 paulovitorstark@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/paulo-vitor-quintanilha
+
+🌐 Portfólio:
+https://github.com/PVgames11
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
