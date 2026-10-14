@@ -25,6 +25,26 @@ Complemento minha formação com conhecimentos em **Python, APIs, bancos de dado
 - Bancos de Dados
 ---
 
+## Sistemas Embarcados e IoT
+
+- ESP32
+- ESP8266
+- Arduino
+- Desenvolvimento em C/C++
+- Integração de sensores e atuadores
+- Prototipagem eletrônica
+- Telemetria
+- MQTT
+- HTTP
+- Wi-Fi
+
+## Programação
+
+- Python
+- C
+- C++
+- Lua
+- SQL
 # Competências Técnicas
 
 ## Automação e Integrações
@@ -47,26 +67,7 @@ Complemento minha formação com conhecimentos em **Python, APIs, bancos de dado
 - Geração de conteúdo com IA
 - Integração de modelos de IA em workflows
 
-## Sistemas Embarcados e IoT
 
-- ESP32
-- ESP8266
-- Arduino
-- Desenvolvimento em C/C++
-- Integração de sensores e atuadores
-- Prototipagem eletrônica
-- Telemetria
-- MQTT
-- HTTP
-- Wi-Fi
-
-## Programação
-
-- Python
-- C
-- C++
-- Lua
-- SQL
 
 ## Bancos de Dados e Dados
 
