@@ -1,32 +1,28 @@
 # Olá, eu sou Paulo Vitor Silva Quintanilha
 
-### Bacharel em Ciência da Computação | Pós-graduando em Internet das Coisas (IoT) | IA, Automação e Tecnologia
+### Bacharel em Ciência da Computação | Pós-graduando em IoT pela UTFPR | Sistemas Embarcados, Firmware e Automação
 
-Sou bacharel em Ciência da Computação e atualmente curso pós-graduação em Internet das Coisas (IoT) pela UTFPR.
+Sou bacharel em Ciência da Computação e pós-graduando em Internet das Coisas (IoT) pela UTFPR. Tenho interesse no desenvolvimento de soluções tecnológicas que integrem software, hardware, sensores e sistemas físicos para resolver problemas do mundo real.
 
-Tenho interesse em tecnologia aplicada, Inteligência Artificial, automação de processos, IoT e desenvolvimento de soluções que integrem software, dados e hardware para resolver problemas do mundo real.
+Atualmente, estou aprofundando meus conhecimentos em **sistemas embarcados, programação em C/C++, STM32 e desenvolvimento de firmware**, estudando periféricos, GPIO, interrupções, timers e comunicação entre dispositivos.
 
-Atualmente venho aprofundando meus conhecimentos em **Inteligência Artificial, automação com n8n, Python, APIs, bancos de dados e sistemas IoT**, desenvolvendo projetos práticos para transformar processos manuais em soluções automatizadas.
+Também possuo experiência prática em projetos de IoT com **ESP32 e ESP8266**, envolvendo sensores, atuadores, monitoramento remoto, telemetria e comunicação MQTT e HTTP.
 
-Também continuo desenvolvendo conhecimentos em sistemas embarcados, especialmente com **ESP32, C/C++, MQTT e sensores**, buscando integrar IoT, automação e IA em projetos cada vez mais completos.
+Complemento minha formação com conhecimentos em **Python, APIs, bancos de dados, Inteligência Artificial e automação de processos com n8n**, buscando ampliar minha capacidade de desenvolver soluções integradas, desde o hardware até as aplicações e os serviços conectados.
+
 
 ---
 
 # Áreas de Interesse
 
-- Inteligência Artificial
-- Automação de Processos
-- n8n
-- Agentes de IA
 - Internet das Coisas (IoT)
 - Sistemas Embarcados
-- Integração de APIs
-- Automação com Python
-- Bancos de Dados
 - Automação Industrial
 - Robótica
 - Desenvolvimento de Software
-
+- Integração de APIs
+- Automação com Python
+- Bancos de Dados
 ---
 
 # Competências Técnicas
@@ -92,40 +88,7 @@ Também continuo desenvolvendo conhecimentos em sistemas embarcados, especialmen
 
 ---
 
-# Projetos em Destaque
 
-## Automação de Busca de Veículos com IA
-
-Automação desenvolvida com **n8n** para realizar buscas de veículos a partir de critérios definidos pelo usuário.
-
-O workflow consulta uma base de dados, filtra os veículos encontrados e utiliza **Inteligência Artificial (Google Gemini)** para gerar automaticamente um e-mail comercial personalizado com as informações dos veículos.
-
-**Tecnologias**
-
-- n8n
-- Google Gemini
-- Google Sheets
-- APIs
-- IA Generativa
-- Automação de e-mail
-
----
-
-## Automação de Controle de Estoque
-
-Workflow desenvolvido com **n8n** para automatizar o monitoramento de estoque.
-
-O sistema verifica diariamente os produtos que estão abaixo do estoque mínimo e envia automaticamente um relatório por e-mail contendo os produtos que precisam de reposição.
-
-**Tecnologias**
-
-- n8n
-- Google Sheets
-- Automação de e-mail
-- Excel
-- Workflows
-
----
 
 ## Sistema Inteligente de Monitoramento Hídrico
 
@@ -175,27 +138,63 @@ O projeto utiliza MQTT para transmissão de dados entre dispositivos embarcados 
 - MySQL
 - IoT
 
+# Projetos em Destaque
+
+## Automação de Busca de Veículos com IA
+
+Automação desenvolvida com **n8n** para realizar buscas de veículos a partir de critérios definidos pelo usuário.
+
+O workflow consulta uma base de dados, filtra os veículos encontrados e utiliza **Inteligência Artificial (Google Gemini)** para gerar automaticamente um e-mail comercial personalizado com as informações dos veículos.
+
+**Tecnologias**
+
+- n8n
+- Google Gemini
+- Google Sheets
+- APIs
+- IA Generativa
+- Automação de e-mail
+
+---
+
+## Automação de Controle de Estoque
+
+Workflow desenvolvido com **n8n** para automatizar o monitoramento de estoque.
+
+O sistema verifica diariamente os produtos que estão abaixo do estoque mínimo e envia automaticamente um relatório por e-mail contendo os produtos que precisam de reposição.
+
+**Tecnologias**
+
+- n8n
+- Google Sheets
+- Automação de e-mail
+- Excel
+- Workflows
+
+---
+
 ---
 
 # Atualmente Estudando
 
-- Inteligência Artificial
-- Agentes de IA
-- Automação com n8n
-- Integração de APIs
-- Python
 - IoT
 - STM32
 - FreeRTOS
 - C/C++
 - Arquitetura de Firmware
 - Protocolos de comunicação
+- Python
+- Inteligência Artificial
+- Agentes de IA
+- Automação com n8n
+- Integração de APIs
+
 
 ---
 
 # Objetivo
 
-Busco oportunidades na área de **Tecnologia, Inteligência Artificial, Automação, IoT e Desenvolvimento de Software**, especialmente em projetos que envolvam integração entre sistemas, automação de processos, dados e tecnologias emergentes.
+Meu objetivo é evoluir profissionalmente nas áreas de **Sistemas Embarcados, Firmware, IoT, Automação e Robótica**, desenvolvendo projetos práticos e aprofundando continuamente meus conhecimentos em eletrônica, controle e integração entre hardware e software.
 
 Tenho interesse em ambientes onde possa continuar aprendendo, desenvolver soluções práticas e contribuir na resolução de problemas reais através da tecnologia.
 
